@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestSharedProperties (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestSharedProperties (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
